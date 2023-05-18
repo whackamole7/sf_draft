@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dedelend_test/static/css/main.e5d0ec14.chunk.css",
-    "main.js": "/dedelend_test/static/js/main.891da94b.chunk.js",
-    "main.js.map": "/dedelend_test/static/js/main.891da94b.chunk.js.map",
+    "main.css": "/dedelend_test/static/css/main.ebca4480.chunk.css",
+    "main.js": "/dedelend_test/static/js/main.d464b186.chunk.js",
+    "main.js.map": "/dedelend_test/static/js/main.d464b186.chunk.js.map",
     "runtime-main.js": "/dedelend_test/static/js/runtime-main.e7e5ce59.js",
     "runtime-main.js.map": "/dedelend_test/static/js/runtime-main.e7e5ce59.js.map",
     "static/css/2.9980fd32.chunk.css": "/dedelend_test/static/css/2.9980fd32.chunk.css",
@@ -14,7 +14,7 @@
     "static/js/4.edca8026.chunk.js.map": "/dedelend_test/static/js/4.edca8026.chunk.js.map",
     "index.html": "/dedelend_test/index.html",
     "static/css/2.9980fd32.chunk.css.map": "/dedelend_test/static/css/2.9980fd32.chunk.css.map",
-    "static/css/main.e5d0ec14.chunk.css.map": "/dedelend_test/static/css/main.e5d0ec14.chunk.css.map",
+    "static/css/main.ebca4480.chunk.css.map": "/dedelend_test/static/css/main.ebca4480.chunk.css.map",
     "static/js/2.8d3915ae.chunk.js.LICENSE.txt": "/dedelend_test/static/js/2.8d3915ae.chunk.js.LICENSE.txt",
     "static/js/3.40dccd4a.chunk.js.LICENSE.txt": "/dedelend_test/static/js/3.40dccd4a.chunk.js.LICENSE.txt",
     "static/media/Anyswap.svg": "/dedelend_test/static/media/Anyswap.491d1f32.svg",
@@ -219,7 +219,7 @@
     "static/js/runtime-main.e7e5ce59.js",
     "static/css/2.9980fd32.chunk.css",
     "static/js/2.8d3915ae.chunk.js",
-    "static/css/main.e5d0ec14.chunk.css",
-    "static/js/main.891da94b.chunk.js"
+    "static/css/main.ebca4480.chunk.css",
+    "static/js/main.d464b186.chunk.js"
   ]
 }
