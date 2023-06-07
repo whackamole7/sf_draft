@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dedelend_test/static/css/main.90dddd25.chunk.css",
-    "main.js": "/dedelend_test/static/js/main.92dd58a6.chunk.js",
-    "main.js.map": "/dedelend_test/static/js/main.92dd58a6.chunk.js.map",
+    "main.css": "/dedelend_test/static/css/main.b228c129.chunk.css",
+    "main.js": "/dedelend_test/static/js/main.f147510e.chunk.js",
+    "main.js.map": "/dedelend_test/static/js/main.f147510e.chunk.js.map",
     "runtime-main.js": "/dedelend_test/static/js/runtime-main.cda248b8.js",
     "runtime-main.js.map": "/dedelend_test/static/js/runtime-main.cda248b8.js.map",
     "static/css/2.9980fd32.chunk.css": "/dedelend_test/static/css/2.9980fd32.chunk.css",
@@ -14,7 +14,7 @@
     "static/js/4.9e30ecd9.chunk.js.map": "/dedelend_test/static/js/4.9e30ecd9.chunk.js.map",
     "index.html": "/dedelend_test/index.html",
     "static/css/2.9980fd32.chunk.css.map": "/dedelend_test/static/css/2.9980fd32.chunk.css.map",
-    "static/css/main.90dddd25.chunk.css.map": "/dedelend_test/static/css/main.90dddd25.chunk.css.map",
+    "static/css/main.b228c129.chunk.css.map": "/dedelend_test/static/css/main.b228c129.chunk.css.map",
     "static/js/2.87134440.chunk.js.LICENSE.txt": "/dedelend_test/static/js/2.87134440.chunk.js.LICENSE.txt",
     "static/js/3.9c29e74e.chunk.js.LICENSE.txt": "/dedelend_test/static/js/3.9c29e74e.chunk.js.LICENSE.txt",
     "static/media/Anyswap.svg": "/dedelend_test/static/media/Anyswap.491d1f32.svg",
@@ -226,7 +226,7 @@
     "static/js/runtime-main.cda248b8.js",
     "static/css/2.9980fd32.chunk.css",
     "static/js/2.87134440.chunk.js",
-    "static/css/main.90dddd25.chunk.css",
-    "static/js/main.92dd58a6.chunk.js"
+    "static/css/main.b228c129.chunk.css",
+    "static/js/main.f147510e.chunk.js"
   ]
 }
