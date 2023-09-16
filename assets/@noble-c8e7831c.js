@@ -1,1 +1,0 @@
-/*! noble-curves - MIT License (c) 2022 Paul Miller (paulmillr.com) */BigInt(0);BigInt(1);BigInt(2);Array.from({length:256},(t,e)=>e.toString(16).padStart(2,"0"));function n(t,e){if(t.length!==e.length)return!1;for(let r=0;r<t.length;r++)if(t[r]!==e[r])return!1;return!0}export{n as e};
