@@ -8729,3 +8729,12 @@ body {
     display: block;
   }
 }
+
+
+/* Typed heading */
+@media screen and (min-width: 1280px) and (max-width: 1440px) {
+  h1.typed {
+    text-align: left;
+    width: auto;
+  }
+}
